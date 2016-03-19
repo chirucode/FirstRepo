@@ -6,3 +6,4 @@ across your nodes using /usr/bin/ansible. Additionally,
 we’ll see what sort of modules are available in Ansible’s core (though you 
 can also write your own, which is also covered later).
 line1
+line 2
